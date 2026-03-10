@@ -15,11 +15,6 @@
 
 - 🎵 **[sonos-ytmusic](https://github.com/OxCosmosly/sonos-ytmusic)** - Play YouTube music on Sonos via direct SOAP
 
-### Connect
-
-- 🐦 **X/Twitter:** [@Raymond_Zhuo](https://twitter.com/Raymond_Zhuo)
-- 💼 **LinkedIn:** [linkedin.com/in/raymondzhuo](https://linkedin.com/in/raymondzhuo)
-
 ---
 
 *"Ship fast, iterate later. Quality over quantity — say it once, say it well."*
