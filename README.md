@@ -4,7 +4,7 @@
 
 ## Current Project
 
-- 🎵 **([sonos-ytmusic](https://github.com/0xCosmosly/Sonos-YTMusic))** - Play YouTube music on Sonos via direct SOAP
+- 🎵 **([Sonos-YTMusic](https://github.com/0xCosmosly/Sonos-YTMusic))** - Play YouTube music on Sonos via direct SOAP
 
 ---
 
