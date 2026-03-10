@@ -8,5 +8,4 @@
 
 ---
 
-*"Ship fast, iterate later. Quality over quantity — say it once, say it well."*
-
+*"Mostly breaking things until they work."*
