@@ -15,7 +15,7 @@ AI agent skills for OpenClaw and similar frameworks.
 
 Small utilities and tweaks.
 
-- 🤖 **[Default-Gemini-Pro-Userscript](https://github.com/0xCosmosly/Default-Gemini-Pro-Userscript)** - Tampermonkey userscript that defaults Gemini web to Pro on launch and then respects manual changes
+- 🤖 **[Default-Google-Pro](https://github.com/0xCosmosly/Default-Google-Pro)** - Tampermonkey userscript that defaults Gemini web to Pro on launch and then respects manual changes
 
 ---
 
