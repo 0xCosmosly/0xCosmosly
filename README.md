@@ -2,13 +2,15 @@
 
 > Vibe-coding useful tools for agents and humans. 🤖🤝👨
 
-## Skills
+## Current Projects
+
+### Skills
 
 AI agent skills for OpenClaw and similar frameworks.
 
 - 🔖 **[x-bookmarks](https://github.com/0xCosmosly/x-bookmarks)** - Turn X/Twitter bookmarks into actionable AI digests
 
-## Tweaks
+### Tweaks
 
 Small utilities and browser tweaks.
 
