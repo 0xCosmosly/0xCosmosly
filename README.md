@@ -1,6 +1,6 @@
 # Hi, I'm Ray 👋
 
-> Creating useful tools for agents and humans. All projects are made with the help of agentic engineering! 🦾
+> Useful tools for agents and humans. 🤖🤝🧑 All projects are made in partnership with AI & agents!
 
 ## Current Projects
 
