@@ -1,6 +1,6 @@
 # Hi, I'm Ray 👋
 
-> Building useful tools for agents and humans. 🤖🤝🧑 All projects are made in partnership with AI & agents!
+> Vibe-coding useful tools for agents and humans. 🤖🤝🧑
 
 ## Current Projects
 
