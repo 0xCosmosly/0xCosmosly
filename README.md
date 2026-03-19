@@ -2,11 +2,9 @@
 
 > Vibe-coding useful tools for agents and humans. 🤖🤝🧑
 
-## Current Projects
+### Active Projects
 
-### Websites & Apps
-
-Public-facing projects and apps.
+Websites, apps, and other projects that are actively being managed.
 
 - ☕ **[Gratis LA](https://github.com/0xCosmosly/gratis-la)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://github.com/0xCosmosly/gratis-la) 
 
