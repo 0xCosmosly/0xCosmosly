@@ -1,5 +1,5 @@
 # Hi, I'm Ray 👋
-Vibe-coding useful tools for agents and humans. 🤖🤝🧑
+Vibe-coding useful tools for agents 🤖 and humans 👦.
 
 ## Repos
 ### Projects
