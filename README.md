@@ -2,7 +2,9 @@
 
 > Vibe-coding useful tools for agents and humans. 🤖🤝🧑
 
-### Active Projects
+## Repos
+
+### Current Projects
 
 Websites, apps, and other projects that are actively being managed.
 
