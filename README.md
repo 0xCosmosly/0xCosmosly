@@ -4,9 +4,9 @@
 
 ## Repos
 
-### Current Projects
+### Projects
 
-Websites, apps, and other projects that are actively being managed.
+Websites, apps, and other larger projects being actively managed.
 
 - ☕ **[Gratis LA](https://github.com/0xCosmosly/gratis-la)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://github.com/0xCosmosly/gratis-la) 
 
