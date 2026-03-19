@@ -4,7 +4,7 @@
 
 ## Current Projects
 
-### Sites & Apps
+### Websites & Apps
 
 Public-facing projects and apps.
 
