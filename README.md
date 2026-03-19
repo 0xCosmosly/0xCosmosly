@@ -8,7 +8,8 @@
 
 Public-facing projects and apps.
 
-- ☕ **[Gratis LA](https://github.com/0xCosmosly/gratis-la)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. Live site: [0xcosmosly.github.io/gratis-la](https://0xcosmosly.github.io/gratis-la/)
+- ☕ **[Gratis LA](https://github.com/0xCosmosly/gratis-la)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots.
+  Live site: [0xcosmosly.github.io/gratis-la](https://0xcosmosly.github.io/gratis-la/)
 
 ### Skills
 
