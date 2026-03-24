@@ -1,6 +1,9 @@
 # Hi, I'm Ray 👋
 Vibe-coding useful tools for agents 🤖 and humans 👦.
 
+All projects are made in assistance with AI, but to the best of my ability, I can guarantee nothing is slop. Buttons work, links go somewhere, pixels perfected... 😊 
+If you see an issue however, feel free to contact me and I'll fix it straightaway. 
+
 ## Repos
 ### Projects
 Websites, apps, and other larger projects being actively managed.
