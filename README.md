@@ -11,9 +11,9 @@ Websites, apps, and other larger projects being actively managed.
 
 ### Skills
 Small OpenClaw-friendly tools for specific jobs.
+- 🪤 **[Spam-Decoy](https://github.com/0xCosmosly/Spam-Decoy)** - Defensive spam/scam-text decoy that screens unknown senders, previews tone before replying, and can run in the background
 - 🔖 **[X-Bookmarks](https://github.com/0xCosmosly/X-Bookmarks)** - Turn X/Twitter bookmarks into actionable AI digests
 - 🎵 **[Sonos-YTMusic](https://github.com/0xCosmosly/Sonos-YTMusic)** - Play YouTube music on Sonos via direct SOAP
-- 🪤 **[Spam-Decoy](https://github.com/0xCosmosly/Spam-Decoy)** - Defensive spam/scam-text decoy for OpenClaw that screens unknown senders, previews tone before replying, and can run in the background
 
 ### Tweaks
 Small utilities and tweaks.
