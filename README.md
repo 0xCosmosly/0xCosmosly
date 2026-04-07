@@ -8,7 +8,7 @@ Websites, apps, and other larger projects being actively managed.
 - 📺 **[Situation-Monitor](https://github.com/0xCosmosly/Situation-Monitor)** - A Chrome extension that turns a single tab into your personal video command center.
 
 ### Skills
-Small OpenClaw-friendly tools for specific jobs.
+OpenClaw-friendly instructions and scripts for specific jobs.
 - 🪤 **[Spam-Decoy](https://github.com/0xCosmosly/Spam-Decoy)** - Texting decoy that screens and plays along with scammers using a fake persona
 - 🔖 **[X-Bookmarks](https://github.com/0xCosmosly/X-Bookmarks)** - Turn X/Twitter bookmarks into actionable digest
 - 🎵 **[Sonos-YTMusic](https://github.com/0xCosmosly/Sonos-YTMusic)** - Play YouTube Music on Sonos via direct SOAP
