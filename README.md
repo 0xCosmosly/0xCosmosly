@@ -4,7 +4,13 @@ Vibe-coding useful tools for agents 🤖 and humans 👦.
 ## Repos
 ### Projects
 Websites, apps, and other larger projects being actively managed.
+<<<<<<< HEAD
+- 📺 **[Situation Monitor](https://github.com/0xCosmosly/Situation-Monitor)** - A Chrome extension that turns a single tab into your personal video command center.
 - ☕ **[Gratis-LA](https://github.com/0xCosmosly/Gratis-LA)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://0xcosmosly.github.io/Gratis-LA/)
+=======
+- 📺 **[Situation Monitor](https://github.com/0xCosmosly/Situation-Monitor)** - A Chrome extension that turns a single tab into your personal video command center.
+- ☕ **[Gratis LA](https://github.com/0xCosmosly/Gratis-LA)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://0xcosmosly.github.io/Gratis-LA/)
+>>>>>>> 203b07a (Add Situation Monitor to projects 📺)
 
 ### Skills
 Small OpenClaw-friendly tools for specific jobs.
