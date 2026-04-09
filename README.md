@@ -16,6 +16,7 @@ Lightweight, OpenClaw-friendly instructions for agents.
 ### Tweaks
 Small quality-of-life improvements.
 - 🤖 **[Default-Gemini-Pro](https://github.com/0xCosmosly/Default-Gemini-Pro)** - Tampermonkey userscript that defaults Gemini web to Pro on launch and then respects manual changes
+- 🔍 **[Google-AI-Filter](https://github.com/0xCosmosly/Google-AI-Filter)** - Tampermonkey userscript that automatically appends -ai to Google search results
 
 ---
 *"Mostly breaking things until they work."*
