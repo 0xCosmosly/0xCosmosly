@@ -15,8 +15,8 @@ Lightweight, OpenClaw-friendly instructions for agents.
 
 ### Tweaks
 Small quality-of-life improvements.
-- 🤖 **[Default-GeminiPro](https://github.com/0xCosmosly/Default-GeminiPro)** - A lightweight userscript that automatically switches Google Gemini to Pro mode on launch.
-- 🔍 **[GoogleSearch-MinusAI](https://github.com/0xCosmosly/GoogleSearch-MinusAI)** - A Tampermonkey userscript that automatically hides AI overviews from your Google search results.
+- 🤖 **[Default-GeminiPro](https://github.com/0xCosmosly/Default-GeminiPro)** - A lightweight userscript that automatically switches Google Gemini to Pro mode on launch. [Greasyfork](https://greasyfork.org/en/scripts/574950-default-geminipro?locale_override=1)
+- 🔍 **[GoogleSearch-MinusAI](https://github.com/0xCosmosly/GoogleSearch-MinusAI)** - A Tampermonkey userscript that automatically hides AI overviews from your Google search results. [Greasyfork](https://greasyfork.org/en/scripts/574951-google-search-minus-ai)
 
 ---
 *"Mostly breaking things until they work."*
