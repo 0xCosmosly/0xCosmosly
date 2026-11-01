@@ -4,7 +4,7 @@ Vibe-coding useful tools for agents 🤖 and humans 👦.
 ## Repos
 ### Projects
 Websites, apps, and other larger projects being actively managed.
-- ⚡️ **[API Bar](https://github.com/0xCosmosly/api-bar)** - Native macOS menu bar companion for tracking AI credits & billing quotas (Vertex AI, Fireworks, Cerebras, Google AI Studio, and custom APIs) with zero API keys needed.
+- ⚡️ **[API-Bar](https://github.com/0xCosmosly/API-Bar)** - Native macOS menu bar companion for tracking AI credits & billing quotas (Vertex AI, Fireworks, Cerebras, Google AI Studio, and custom APIs) with zero API keys needed.
 - ☕ **[Gratis-LA](https://github.com/0xCosmosly/Gratis-LA)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://0xcosmosly.github.io/Gratis-LA/)
 - 📺 **[SituationMonitor](https://github.com/0xCosmosly/SituationMonitor)** - A lightweight Chrome extension that arranges multiple live video feeds into a neat, private command center grid.
 
