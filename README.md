@@ -17,7 +17,7 @@ Lightweight, OpenClaw-friendly instructions for agents.
 ### Userscripts
 Small browser scripts that fix everyday annoyances.
 - 🚫 **[GoogleSearch-MinusAI](https://github.com/0xCosmosly/GoogleSearch-MinusAI)** - Tampermonkey userscript that strips AI overviews out of your Google search results.
-- ✨ **[Default-GeminiPro](https://github.com/0xCosmosly/Default-GeminiPro)** - Lightweight userscript that switches Google Gemini to Pro mode on launch, while respecting manual changes.
+- ✨ **[Default-ArgonHigh](https://github.com/0xCosmosly/Default-ArgonHigh)** - Lightweight userscript that switches Google Gemini to 4 Argon at High thinking level on launch, while respecting manual changes.
 
 ---
 *"Mostly breaking things until they work."*
