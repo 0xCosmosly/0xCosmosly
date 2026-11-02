@@ -19,10 +19,13 @@ Small browser scripts that fix everyday annoyances.
 - 🚫 **[GoogleSearch-MinusAI](https://github.com/0xCosmosly/GoogleSearch-MinusAI)** - Tampermonkey userscript that strips AI overviews out of your Google search results.
 - ✨ **[Default-ArgonHigh](https://github.com/0xCosmosly/Default-ArgonHigh)** - Lightweight userscript that switches Google Gemini to 4 Argon at High thinking level on launch, while respecting manual changes.
 
-| 🚫 GoogleSearch-MinusAI | ✨ Default-ArgonHigh |
-|:---:|:---:|
-| <a href="https://github.com/0xCosmosly/GoogleSearch-MinusAI"><img src="https://cdn.jsdelivr.net/gh/0xCosmosly/GoogleSearch-MinusAI@main/docs/screenshot.png" width="420" alt="Google Search Minus AI before and after"></a> | <a href="https://github.com/0xCosmosly/Default-ArgonHigh"><img src="https://cdn.jsdelivr.net/gh/0xCosmosly/Default-ArgonHigh@main/docs/screenshot.png" width="420" alt="Default Argon High in Gemini"></a> |
-| <sub>AI Overview and Ask box gone — results untouched</sub> | <sub>Gemini opens on 4 Argon at High thinking</sub> |
+<a href="https://github.com/0xCosmosly/GoogleSearch-MinusAI"><img src="https://cdn.jsdelivr.net/gh/0xCosmosly/GoogleSearch-MinusAI@main/docs/screenshot.png" alt="Google Search Minus AI — before and after"></a>
+
+<sub>🚫 **GoogleSearch-MinusAI** — AI Overview and Ask box gone, organic results untouched.</sub>
+
+<a href="https://github.com/0xCosmosly/Default-ArgonHigh"><img src="https://cdn.jsdelivr.net/gh/0xCosmosly/Default-ArgonHigh@main/docs/screenshot.png" alt="Default Argon High in Gemini"></a>
+
+<sub>✨ **Default-ArgonHigh** — Gemini opens on 4 Argon at High thinking, every tab.</sub>
 
 ---
 *"Mostly breaking things until they work."*
