@@ -14,5 +14,10 @@ Lightweight, OpenClaw-friendly instructions for agents.
 - 🔖 **[XBookmarks-Digest](https://github.com/0xCosmosly/XBookmarks-Digest)** - An AI agent skill that transforms your X (Twitter) bookmarks into an actionable to-do list.
 - 🎵 **[Sonos-YTMusic](https://github.com/0xCosmosly/Sonos-YTMusic)** - Play YouTube Music on Sonos via direct SOAP commands.
 
+### Userscripts
+Small browser scripts that fix everyday annoyances.
+- 🚫 **[GoogleSearch-MinusAI](https://github.com/0xCosmosly/GoogleSearch-MinusAI)** - Tampermonkey userscript that strips AI overviews out of your Google search results.
+- ✨ **[Default-GeminiPro](https://github.com/0xCosmosly/Default-GeminiPro)** - Lightweight userscript that switches Google Gemini to Pro mode on launch, while respecting manual changes.
+
 ---
 *"Mostly breaking things until they work."*
