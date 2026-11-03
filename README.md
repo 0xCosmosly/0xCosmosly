@@ -9,8 +9,8 @@ Websites, apps, and other larger projects being actively managed.
 - 📺 **[SituationMonitor](https://github.com/0xCosmosly/SituationMonitor)** - A lightweight Chrome extension that arranges multiple live video feeds into a neat, private command center grid.
 
 ### Skills
-Lightweight, OpenClaw-friendly instructions for agents.
-- 🪤 **[Spam-Decoy](https://github.com/0xCosmosly/Spam-Decoy)** - An OpenClaw AI skill that intercepts spam texts and engages scammers with a time-wasting fake persona.
+Lightweight agent-friendly instructions usable in Hermes, OpenClaw, etc.
+- 🪤 **[Spam-Decoy](https://github.com/0xCosmosly/Spam-Decoy)** - An agent AI skill that intercepts spam texts and engages scammers with a time-wasting fake persona.
 - 🔖 **[XBookmarks-Digest](https://github.com/0xCosmosly/XBookmarks-Digest)** - An AI agent skill that transforms your X (Twitter) bookmarks into an actionable to-do list.
 - 🎵 **[Sonos-YTMusic](https://github.com/0xCosmosly/Sonos-YTMusic)** - Play YouTube Music on Sonos via direct SOAP commands.
 
