@@ -3,7 +3,7 @@ Making stuff for myself and share it openly, mostly vibe-coded tools for agents 
 
 ## Repos
 ### Projects
-Websites, apps, and other larger projects being actively managed.
+Websites, apps, and other larger projects.
 - ⚡️ **[Harness-Sync](https://github.com/0xCosmosly/Harness-Sync)** - Native macOS menu bar companion for tracking AI credits, token burn velocity, and synchronizing coding agent harnesses (OpenCode, Pi, OMP) across Macs via iCloud with zero API keys needed.
 - 📺 **[SituationMonitor](https://github.com/0xCosmosly/SituationMonitor)** - A lightweight Chrome extension that arranges multiple live video feeds into a neat, private command center grid.
 
