@@ -1,5 +1,5 @@
 # Hi, I'm Ray 👋
-Making stuff for myself and share it openly, mostly vibe-coded tools for agents 🤖 and humans 👦.
+Just a dude making stuff for myself and then sharing it openly. 🤙
 
 ## Repos
 ### Projects
