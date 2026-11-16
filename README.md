@@ -5,7 +5,6 @@ Making stuff for myself and share it openly, mostly vibe-coded tools for agents 
 ### Projects
 Websites, apps, and other larger projects being actively managed.
 - ⚡️ **[Harness-Sync](https://github.com/0xCosmosly/Harness-Sync)** - Native macOS menu bar companion for tracking AI credits, token burn velocity, and synchronizing coding agent harnesses (OpenCode, Pi, OMP) across Macs via iCloud with zero API keys needed.
-- ☕ **[Gratis-LA](https://github.com/0xCosmosly/Gratis-LA)** - Community-sourced Los Angeles restaurant map for no-tipping and tip-included spots. [Site](https://0xcosmosly.github.io/Gratis-LA/)
 - 📺 **[SituationMonitor](https://github.com/0xCosmosly/SituationMonitor)** - A lightweight Chrome extension that arranges multiple live video feeds into a neat, private command center grid.
 
 ### Skills
