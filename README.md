@@ -9,7 +9,7 @@ Websites, apps, and other larger projects.
 
 ### Skills
 Lightweight agent-friendly instructions usable in Hermes, OpenClaw, etc.
-- 🧹 **[Remove AI Contributor](https://github.com/0xCosmosly/remove-ai-contributor)** - An agent skill that removes Claude (or any AI co-author) from your GitHub Contributors list and stops it coming back.
+- 🧹 **[Remove Claude Contributor](https://github.com/0xCosmosly/remove-ai-contributor)** - An agent skill that removes Claude (or any AI co-author) from your GitHub Contributors list and stops it coming back.
 - 🪤 **[Spam Decoy](https://github.com/0xCosmosly/spam-decoy)** - An agent AI skill that intercepts spam texts and engages scammers with a time-wasting fake persona.
 - 🔖 **[X Bookmarks Digest](https://github.com/0xCosmosly/x-bookmarks-digest)** - An AI agent skill that transforms your X (Twitter) bookmarks into an actionable to-do list.
 - 🎵 **[Sonos YT Music](https://github.com/0xCosmosly/sonos-ytmusic)** - Play YouTube Music on Sonos via direct SOAP commands.
