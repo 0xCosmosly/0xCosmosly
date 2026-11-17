@@ -1,5 +1,5 @@
 # Hi, I'm Ray
-Just a dude making stuff for myself and then sharing it openly. 🤙
+Just a dude making stuff for myself, then sharing it openly. 🤙
 
 ## Repos
 ### Projects
