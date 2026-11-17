@@ -1,4 +1,4 @@
-# Hi, I'm Ray 👋
+# Hi, I'm Ray
 Just a dude making stuff for myself and then sharing it openly. 🤙
 
 ## Repos
