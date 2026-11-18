@@ -16,7 +16,7 @@ Lightweight agent-friendly instructions usable in Hermes, OpenClaw, etc.
 ### Userscripts
 Small browser scripts that fix everyday annoyances.
 - 🚫 **[Google No AI Overview](https://github.com/0xCosmosly/google-no-ai-overview)** - Tampermonkey userscript that strips AI overviews out of your Google search results.
-- ✨ **[Default Argon High](https://github.com/0xCosmosly/default-argon-high)** - Lightweight userscript that switches Google Gemini to 4 Argon at High thinking level on launch, while respecting manual changes.
+- ✨ **[Default Neon High](https://github.com/0xCosmosly/default-neon-high)** - Lightweight userscript that switches Google Gemini to 4 Neon at High thinking level on launch, while respecting manual changes. Tailored for the Google AI Pro plan.
 
 ---
 *"Mostly breaking things until they work."*
